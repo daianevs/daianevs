@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:2E5090&height=180&section=header&text=Daiane%20Santos&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Analista%20Financeira%20%7C%20Dados%20%26%20Processos%20%7C%20Compliance&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://raw.githubusercontent.com/daianevs/daianevs/main/banner.png" width="100%" alt="Daiane Santos - Analista Financeira · Dados & Processos"/>
 
 </div>
 
@@ -90,8 +90,4 @@ Tudo isso conectado à **Pós-graduação em Data Analytics** que inicio em maio
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:2E5090&height=100&section=footer" width="100%"/>
-
-</div>
+---
