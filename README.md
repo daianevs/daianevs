@@ -81,13 +81,5 @@ Tudo isso conectado à **Pós-graduação em Data Analytics** que inicio em maio
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=daianevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianevs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
----
+![](https://github-readme-stats.vercel.app/api?username=daianevs&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daianevs&layout=compact&theme=tokyonight&hide_border=true)
