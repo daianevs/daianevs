@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Daiane%20Santos&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Analista%20Financeira%20%7C%20Dados%20%26%20Processos%20%7C%20Compliance&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:2E5090&height=180&section=header&text=Daiane%20Santos&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Analista%20Financeira%20%7C%20Dados%20%26%20Processos%20%7C%20Compliance&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
@@ -43,14 +43,14 @@ Tudo isso conectado à **Pós-graduação em Data Analytics** que inicio em maio
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1B2A4A?style=for-the-badge&logo=python&logoColor=C9A84C)
+![Power BI](https://img.shields.io/badge/Power%20BI-1B2A4A?style=for-the-badge&logo=powerbi&logoColor=C9A84C)
+![SQL](https://img.shields.io/badge/SQL-1B2A4A?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-1B2A4A?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-1B2A4A?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-1B2A4A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1B2A4A?style=for-the-badge&logo=pandas&logoColor=C9A84C)
+![Jupyter](https://img.shields.io/badge/Jupyter-1B2A4A?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -92,6 +92,6 @@ Tudo isso conectado à **Pós-graduação em Data Analytics** que inicio em maio
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:2E5090&height=100&section=footer" width="100%"/>
 
 </div>
