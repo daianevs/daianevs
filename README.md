@@ -73,7 +73,7 @@ Tudo isso conectado à **Pós-graduação em Data Analytics** que inicio em maio
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📓 Estudos em Python](https://github.com/daianevs/Estudos_Python) | Exercícios práticos e projetos do cotidiano, incluindo calculadora de empréstimo consignado | Python · Jupyter |
-| | [📊 Dashboard TCC](https://github.com/daianevs/TCC-Melhoria-Processos-Consignado) | Painel com indicadores de eficiência operacional, gestão de custos e performance de fornecedores — resultado do meu TCC | Power BI |
+| [📊 Dashboard TCC](https://github.com/daianevs/TCC-Melhoria-Processos-Consignado) | Painel com indicadores de eficiência operacional, gestão de custos e performance de fornecedores — resultado do meu TCC | Power BI |
 | 🤖 Automação DATAPREV *(em breve)* | Script para validação automática de contratos no portal SenffConsig via Selenium | Python · Selenium |
 | 📋 Mapeamento de Processos *(em breve)* | Análise AS IS / TO BE do processo de lançamento de faturas consignadas | BPM · Melhoria contínua |
 
