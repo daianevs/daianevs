@@ -75,7 +75,7 @@ Tudo isso conectado à **Pós-graduação em Data Analytics** que inicio em maio
 | [📓 Estudos em Python](https://github.com/daianevs/Estudos_Python) | Exercícios práticos e projetos do cotidiano, incluindo calculadora de empréstimo consignado | Python · Jupyter |
 | [📊 Dashboard TCC](https://github.com/daianevs/TCC-Melhoria-Processos-Consignado) | Painel com indicadores de eficiência operacional, gestão de custos e performance de fornecedores — resultado do meu TCC | Power BI |
 | 🤖 [Validação Regulatória DATAPREV](https://github.com/daianevs/validacao-automatica-regulatoria)| Automação Python para monitoramento de prazos regulatórios de contratos consignados com geração de relatório Excel | Python · Selenium |
-| 📋 Mapeamento de Processos *(em breve)* | Análise AS IS / TO BE do processo de lançamento de faturas consignadas | BPM · Melhoria contínua |
+| 📋 Dashboard de Controles Internos — BI para Compliance | BI para compliance financeiro com Power BI e DAX. Monitora efetividade de controles, remediações e KPIs regulatórios. Dados sintéticos gerados por IA via Python. | BI · Compliance |
 
 ---
 
