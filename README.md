@@ -18,7 +18,7 @@
 Sou **Analista de Produtos Financeiros** no **Grupo Senff**, atuando diretamente na operação de crédito consignado. Atuo em atividades analíticas e operacionais, com foco em **qualidade de dados**, **conformidade de processos** e **melhoria contínua** em ambiente financeiro regulado.
 
 - 🎓 Bacharela em **Administração** — UNINTER  
-- 📊 Pós-graduanda em **Data Analytics** (início: maio/2026)  
+- 📊 Pós-graduanda em **Data Analytics** (início: maio/2026)  - USP Esalq
 - 📋 TCC com foco em **Melhoria de Processos**: 53% de redução no tempo de processamento de faturas consignadas  
 - 🤖 Automações com **Python** e **Selenium** para validação de contratos e integração com sistemas consignados  
 - 📈 Dashboards em **Power BI** com indicadores de eficiência operacional, gestão de custos e performance de fornecedores  
